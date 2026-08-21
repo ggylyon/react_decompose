@@ -1,6 +1,6 @@
 import './Navigation.scss';
 
-const Navigation = () => (
+export const Navigation = () => (
   <nav className="navigation">
     <a className="navigation__link" href="#about">
       About

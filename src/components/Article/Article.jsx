@@ -1,6 +1,6 @@
 import './Article.scss';
 
-const Article = () => (
+export const Article = () => (
   <article className="article">
     <h2 className="article__title">Headline</h2>
     <p className="article__paragraph">
